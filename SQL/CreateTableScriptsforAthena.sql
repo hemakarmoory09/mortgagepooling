@@ -1,6 +1,6 @@
 -- ** Create table scripts for Athena ** 
 
-
+-- fixed prod defect
 -- SQL script to create table ‘baseline’:
 CREATE EXTERNAL TABLE IF NOT EXISTS mortgagepooling.baseline (
   `LoanID` bigint,
