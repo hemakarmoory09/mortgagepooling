@@ -1,6 +1,6 @@
 -- ** Create table scripts for Athena ** 
 
--- implemented an enhancement
+-- implemented an enhancement by Abc developer
 
 -- fixed prod defect
 -- SQL script to create table ‘baseline’:
