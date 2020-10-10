@@ -1,5 +1,7 @@
 -- ** SQL scripts for data analysis in Quicksight ** 
 
+-- implemented a new feature
+
 -- SQL script to combine loan data, pool option data, eligible pricing options and baseline data sets
 SELECT
   ld.*
