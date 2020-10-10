@@ -1,6 +1,6 @@
 -- ** Create table scripts for Athena ** 
 
--- implemented an enhancement by Abc700007 developer
+-- implemented an enhancement by Abc4567 developer
 
 -- fixed prod defect
 -- SQL script to create table ‘baseline’:
@@ -16,7 +16,7 @@ WITH SERDEPROPERTIES (
 ) LOCATION 's3://mortgagepooling/baseline/'
 TBLPROPERTIES ('has_encrypted_data'='false')
 
-
+-- added additional validation
 
 -- SQL script to create table ‘eligible_pricing_combinations’:
 
