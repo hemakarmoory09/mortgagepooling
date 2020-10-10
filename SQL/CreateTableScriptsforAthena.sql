@@ -2,6 +2,7 @@
 
 -- implemented an enhancement by Abc4567 developer my local
 
+
 -- fixed prod defect
 -- SQL script to create table ‘baseline’:
 CREATE EXTERNAL TABLE IF NOT EXISTS mortgagepooling.baseline (
